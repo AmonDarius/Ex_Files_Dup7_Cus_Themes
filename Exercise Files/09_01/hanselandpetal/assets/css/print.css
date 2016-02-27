@@ -1,0 +1,11 @@
+body {
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+a,
+a:link,
+a:visited
+a:active {
+  text-decoration: underline;
+}

@@ -1,0 +1,9 @@
+name = Samoca
+description = A custom theme for the San Angelico Museum of Contemporary Art
+core = 7.x
+
+; CSS
+stylesheets[all][] = assets/css/reset.css
+stylesheets[all][] = assets/css/typography.css
+stylesheets[all][] = assets/css/layout.css
+stylesheets[all][] = assets/css/drupal.css
